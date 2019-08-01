@@ -1,0 +1,6 @@
+[04-Jul-2019 13:02:27 UTC] Failed to connect to database: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[17-Jul-2019 10:52:24 UTC] PHP Warning:  include(pengiriman_view.php): failed to open stream: No such file or directory in /home/apptirexco/public_html/admina/modul/pengiriman/pengiriman.php on line 35
+[17-Jul-2019 10:52:24 UTC] PHP Warning:  include(): Failed opening 'pengiriman_view.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/apptirexco/public_html/admina/modul/pengiriman/pengiriman.php on line 35
+[18-Jul-2019 03:02:52 UTC] PHP Recoverable fatal error:  Object of class Database could not be converted to string in /home/apptirexco/public_html/admina/modul/pengiriman/pengiriman_add.php on line 54
+[18-Jul-2019 03:03:12 UTC] PHP Recoverable fatal error:  Object of class Database could not be converted to string in /home/apptirexco/public_html/admina/modul/pengiriman/pengiriman_add.php on line 54
+[18-Jul-2019 03:03:15 UTC] PHP Recoverable fatal error:  Object of class Database could not be converted to string in /home/apptirexco/public_html/admina/modul/pengiriman/pengiriman_add.php on line 54

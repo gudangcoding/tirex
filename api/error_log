@@ -1,0 +1,5 @@
+[25-Jun-2019 15:41:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/apptirexco/public_html/api/login.php on line 32
+[25-Jun-2019 15:42:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eader() in /home/apptirexco/public_html/api/login.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/apptirexco/public_html/api/login.php on line 2
